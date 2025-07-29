@@ -14,7 +14,7 @@ pre-prod
 pre_prod
 pre-production
 pre_production
-pre_live
+pre-live
 pre_live
 pre-release
 pre_release
